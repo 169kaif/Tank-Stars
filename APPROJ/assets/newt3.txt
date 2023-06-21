@@ -1,0 +1,61 @@
+newt3.png
+size: 200, 960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+53
+  rotate: false
+  xy: 0, 0
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+54
+  rotate: false
+  xy: 0, 120
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+55
+  rotate: false
+  xy: 0, 240
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+56
+  rotate: false
+  xy: 0, 360
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+57
+  rotate: false
+  xy: 0, 480
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+58
+  rotate: false
+  xy: 0, 600
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+59
+  rotate: false
+  xy: 0, 720
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+60
+  rotate: false
+  xy: 0, 840
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1

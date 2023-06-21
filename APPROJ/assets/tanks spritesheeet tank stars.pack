@@ -1,0 +1,12 @@
+
+tanks spritesheeet tank stars.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tankssprite
+  rotate: false
+  xy: 1, 1
+  size: 568, 694
+  orig: 568, 694
+  offset: 0, 0
+  index: -1

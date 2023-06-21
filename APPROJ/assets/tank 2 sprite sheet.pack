@@ -1,0 +1,76 @@
+
+tank 2 sprite sheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+45
+  rotate: false
+  xy: 1, 483
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+46
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+
+tank 2 sprite sheet2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+47
+  rotate: false
+  xy: 1, 483
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+48
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+
+tank 2 sprite sheet3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+49
+  rotate: false
+  xy: 1, 483
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+50
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+
+tank 2 sprite sheet4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+51
+  rotate: false
+  xy: 1, 483
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+52
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
